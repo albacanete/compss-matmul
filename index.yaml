@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  compss-matmul:
+  - apiVersion: v2
+    appVersion: "3.3"
+    created: "2024-05-07T15:40:58.7309457+02:00"
+    description: A Helm chart for executing a matrix multiplication with COMPSs
+    digest: a228be01774ede92d49a21e5d3b72ea27800cc7214915bb4342615ebe2333755
+    name: compss-matmul
+    type: application
+    urls:
+    - compss-matmul-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-07T15:40:58.730344027+02:00"
